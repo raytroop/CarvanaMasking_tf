@@ -1,7 +1,7 @@
 This toy project is based on CS230 TensorFlow codebase in vision
 [cs230 codebase](https://github.com/cs230-stanford/cs230-code-examples)
 <br>
-UNet is based on [image_segmentation.ipynb](https://github.com/tensorflow/models/blob/master/samples/outreach/blogs/segmentation_blogpost/image_segmentation.ipynb)
+U-Net is based on [image_segmentation.ipynb](https://github.com/tensorflow/models/blob/master/samples/outreach/blogs/segmentation_blogpost/image_segmentation.ipynb)
 
 ```
 $ python train.py
